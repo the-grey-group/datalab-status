@@ -8,7 +8,11 @@ assignees: # Users to assign downtime issues (optional)
 sites:
   - name: Datalab
     url: https://api.odbx.science
+    headers:
+    - "Authorization: $BASIC_AUTH_HEADERS"
   - name: Datalab (dev)
     url: https://api-dev.odbx.science
+    headers:
+    - "Authorization: $BASIC_AUTH_HEADERS"
   - name: odbx
     url: https://optimade.odbx.science
