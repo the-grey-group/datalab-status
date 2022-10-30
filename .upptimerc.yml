@@ -13,6 +13,9 @@ workflowSchedule:
   updateTemplate: "0 0 * * *"
   updates: "0 3 * * *"
   uptime: "13 * * * *"
+  
+status-website:
+  publish: false
 
 sites:
   - name: Datalab
