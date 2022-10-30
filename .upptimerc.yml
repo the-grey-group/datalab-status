@@ -1,6 +1,9 @@
 # Change these first
 owner: the-grey-group # Your GitHub organization or username, where this repository lives
 repo: datalab-status # The name of this repository
+user-agent: greymon-bot
+assignees: # Users to assign downtime issues (optional)
+  - ml-evs
 
 sites:
   - name: Datalab
