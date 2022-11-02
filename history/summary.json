@@ -22,19 +22,19 @@
     "url": "https://api-dev.odbx.science",
     "icon": "https://icons.duckduckgo.com/ip3/api-dev.odbx.science.ico",
     "slug": "datalab-dev",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 517,
-    "timeDay": 359,
-    "timeWeek": 517,
-    "timeMonth": 517,
-    "timeYear": 517,
+    "status": "up",
+    "uptime": "94.45%",
+    "uptimeDay": "81.12%",
+    "uptimeWeek": "94.45%",
+    "uptimeMonth": "94.45%",
+    "uptimeYear": "94.45%",
+    "time": 543,
+    "timeDay": 462,
+    "timeWeek": 543,
+    "timeMonth": 543,
+    "timeYear": 543,
     "dailyMinutesDown": {
-      "2022-11-02": 0
+      "2022-11-02": 272
     }
   },
   {
