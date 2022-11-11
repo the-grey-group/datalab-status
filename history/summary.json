@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 628,
-    "timeDay": 530,
-    "timeWeek": 676,
-    "timeMonth": 628,
-    "timeYear": 628,
+    "time": 617,
+    "timeDay": 481,
+    "timeWeek": 661,
+    "timeMonth": 617,
+    "timeYear": 617,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-dev.odbx.science.ico",
     "slug": "datalab-dev",
     "status": "up",
-    "uptime": "98.20%",
+    "uptime": "98.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.20%",
-    "uptimeYear": "98.20%",
-    "time": 573,
-    "timeDay": 501,
-    "timeWeek": 632,
-    "timeMonth": 573,
-    "timeYear": 573,
+    "uptimeMonth": "98.36%",
+    "uptimeYear": "98.36%",
+    "time": 568,
+    "timeDay": 505,
+    "timeWeek": 618,
+    "timeMonth": 568,
+    "timeYear": 568,
     "dailyMinutesDown": {
       "2022-11-02": 272
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 448,
-    "timeDay": 559,
-    "timeWeek": 442,
-    "timeMonth": 448,
-    "timeYear": 448,
+    "time": 474,
+    "timeDay": 782,
+    "timeWeek": 494,
+    "timeMonth": 474,
+    "timeYear": 474,
     "dailyMinutesDown": {}
   }
 ]
