@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.odbx.science.ico",
     "slug": "datalab",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.87%",
+    "uptimeDay": "92.37%",
+    "uptimeWeek": "98.91%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.87%",
     "time": 605,
-    "timeDay": 662,
-    "timeWeek": 573,
-    "timeMonth": 653,
+    "timeDay": 0,
+    "timeWeek": 579,
+    "timeMonth": 657,
     "timeYear": 605,
     "dailyMinutesDown": {
-      "2022-12-28": 0
+      "2022-12-29": 10,
+      "2022-12-28": 100
     }
   },
   {
@@ -25,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-dev.odbx.science.ico",
     "slug": "datalab-dev",
     "status": "down",
-    "uptime": "99.68%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.68%",
+    "uptime": "99.55%",
+    "uptimeDay": "92.38%",
+    "uptimeWeek": "98.91%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.55%",
     "time": 521,
-    "timeDay": 511,
-    "timeWeek": 560,
-    "timeMonth": 517,
+    "timeDay": 0,
+    "timeWeek": 582,
+    "timeMonth": 520,
     "timeYear": 521,
     "dailyMinutesDown": {
-      "2022-12-28": 0,
+      "2022-12-29": 10,
+      "2022-12-28": 100,
       "2022-11-02": 272
     }
   },
@@ -46,18 +48,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/optimade.odbx.science.ico",
     "slug": "odbx",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.87%",
+    "uptimeDay": "92.38%",
+    "uptimeWeek": "98.91%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.87%",
     "time": 488,
-    "timeDay": 492,
-    "timeWeek": 546,
-    "timeMonth": 500,
+    "timeDay": 0,
+    "timeWeek": 533,
+    "timeMonth": 502,
     "timeYear": 488,
     "dailyMinutesDown": {
-      "2022-12-28": 0
+      "2022-12-29": 10,
+      "2022-12-28": 100
     }
   }
 ]
