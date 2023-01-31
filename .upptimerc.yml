@@ -5,9 +5,6 @@ user-agent: greymon-bot
 assignees: # Users to assign downtime issues (optional)
   - ml-evs
 
-status-website:
-  publish: true
-
 sites:
   - name: Datalab API
     url: https://api.odbx.science
@@ -23,7 +20,7 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  baseUrl: datalab-status
+  baseUrl: /datalab-status
   logoUrl: https://avatars.githubusercontent.com/u/50706292
   name: OPTIMADE Status
   introTitle: "A status page for datalab-associated web pages, powered by Upptime."
