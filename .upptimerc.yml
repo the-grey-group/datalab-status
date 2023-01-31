@@ -15,16 +15,16 @@ workflowSchedule:
   uptime: "13 * * * *"
 
 status-website:
-  publish: false
+  publish: true
 
 sites:
-  - name: Datalab
+  - name: Datalab API
     url: https://api.odbx.science
-    headers:
-      - "Authorization: $BASIC_AUTH_HEADERS"
-  - name: Datalab (dev)
+  - name: Datalab 
+    url: https://datalab.odbx.science
+  - name: Datalab API (dev)
     url: https://api-dev.odbx.science
-    headers:
-      - "Authorization: $BASIC_AUTH_HEADERS"
+  - name: Datalab (dev)
+    url: https://datalab-dev.odbx.science
   - name: odbx
     url: https://optimade.odbx.science
