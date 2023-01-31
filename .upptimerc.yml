@@ -19,3 +19,21 @@ sites:
     url: https://datalab-dev.odbx.science
   - name: odbx
     url: https://optimade.odbx.science
+    
+status-website:
+  # Add your custom domain name, or remove the `cname` line if you don't have a domain
+  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  # cname: status.optimade.org
+  # baseUrl: /status
+  logoUrl: https://avatars.githubusercontent.com/u/50706292
+  name: OPTIMADE Status
+  introTitle: "A status page for datalab-associated web pages, powered by Upptime."
+  # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  navbar:
+    - title: Status
+      href: /
+    - title: The Grey Group
+      href: https://www.ch.cam.ac.uk/group/grey/
+
+# Upptime also supports notifications, assigning issues, and more
+# See https://upptime.js.org/docs/configuration
