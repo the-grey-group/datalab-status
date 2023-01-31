@@ -1,7 +1,7 @@
 url: https://api-dev.odbx.science
-status: up
-code: 200
-responseTime: 496
-lastUpdated: 2023-01-31T10:43:19.978Z
+status: down
+code: 401
+responseTime: 677
+lastUpdated: 2023-01-31T11:05:27.649Z
 startTime: Tue Jan 31 2023 02:39:49 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
