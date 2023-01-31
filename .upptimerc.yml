@@ -12,8 +12,12 @@ sites:
     url: https://datalab.odbx.science
   - name: Datalab API (dev)
     url: https://api-dev.odbx.science
+    headers:
+    - "Authorization: $BASIC_AUTH_HEADERS"
   - name: Datalab (dev)
     url: https://datalab-dev.odbx.science
+    headers:
+    - "Authorization: $BASIC_AUTH_HEADERS"
   - name: odbx
     url: https://optimade.odbx.science
     
