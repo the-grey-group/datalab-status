@@ -1,7 +1,7 @@
 url: https://datalab-dev.odbx.science
-status: up
-code: 200
-responseTime: 480
-lastUpdated: 2023-08-08T23:02:11.844Z
+status: down
+code: 401
+responseTime: 614
+lastUpdated: 2023-08-09T12:22:35.713Z
 startTime: Sun Oct 30 2022 12:13:59 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
