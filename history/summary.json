@@ -6,15 +6,15 @@
     "slug": "datalab-public-api",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.47%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.92%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.93%",
-    "time": 880,
-    "timeDay": 578,
-    "timeWeek": 505,
-    "timeMonth": 554,
-    "timeYear": 880,
+    "time": 876,
+    "timeDay": 549,
+    "timeWeek": 514,
+    "timeMonth": 551,
+    "timeYear": 876,
     "dailyMinutesDown": {
       "2024-01-16": 8,
       "2024-01-06": 35,
@@ -34,9 +34,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
     "time": 556,
-    "timeDay": 351,
-    "timeWeek": 519,
-    "timeMonth": 497,
+    "timeDay": 537,
+    "timeWeek": 506,
+    "timeMonth": 493,
     "timeYear": 556,
     "dailyMinutesDown": {
       "2024-01-06": 24,
@@ -54,11 +54,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
-    "time": 503,
-    "timeDay": 369,
-    "timeWeek": 426,
-    "timeMonth": 510,
-    "timeYear": 503,
+    "time": 502,
+    "timeDay": 430,
+    "timeWeek": 422,
+    "timeMonth": 505,
+    "timeYear": 502,
     "dailyMinutesDown": {
       "2024-01-06": 26
     }
@@ -74,11 +74,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
-    "time": 479,
-    "timeDay": 382,
-    "timeWeek": 530,
-    "timeMonth": 491,
-    "timeYear": 479,
+    "time": 483,
+    "timeDay": 788,
+    "timeWeek": 567,
+    "timeMonth": 495,
+    "timeYear": 483,
     "dailyMinutesDown": {
       "2024-01-06": 28
     }
@@ -95,10 +95,10 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "98.26%",
     "time": 464,
-    "timeDay": 511,
-    "timeWeek": 458,
-    "timeMonth": 470,
-    "timeYear": 458,
+    "timeDay": 431,
+    "timeWeek": 453,
+    "timeMonth": 464,
+    "timeYear": 459,
     "dailyMinutesDown": {
       "2024-01-06": 20,
       "2023-11-09": 124,
@@ -114,8 +114,7 @@
       "2023-05-11": 1440,
       "2023-05-10": 935,
       "2023-03-07": 43,
-      "2023-02-07": 21,
-      "2023-01-18": 57
+      "2023-02-07": 21
     }
   }
 ]
