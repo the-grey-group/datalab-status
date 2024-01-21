@@ -1,7 +1,7 @@
 url: https://api.odbx.science
-status: degraded
-code: 502
-responseTime: 18566
-lastUpdated: 2024-01-21T21:09:45.806Z
+status: up
+code: 200
+responseTime: 409
+lastUpdated: 2024-01-21T22:00:44.900Z
 startTime: 2023-10-29T18:22:39.626Z
 generator: Upptime <https://github.com/upptime/upptime>
