@@ -6,20 +6,11 @@ assignees: # Users to assign downtime issues (optional)
   - ml-evs
 
 sites:
-  - name: Datalab Public (API)
-    url: https://public.api.odbx.science
-    maxResponseTime: 10000
-  - name: Datalab Public
-    url: https://public.datalab.odbx.science
-    maxResponseTime: 10000
   - name: The Grey Group Datalab (API)
-    url: https://api.odbx.science
+    url: https://api.odbx.science/healthcheck/is_ready
     maxResponseTime: 1000
   - name: The Grey Group Datalab
     url: https://datalab.odbx.science
-    maxResponseTime: 1000
-  - name: odbx
-    url: https://optimade.odbx.science
     maxResponseTime: 1000
 
 status-website:
