@@ -1,7 +1,7 @@
 url: https://api.odbx.science/healthcheck/is_ready
 status: up
 code: 200
-responseTime: 563
-lastUpdated: 2025-03-09T23:02:09.363Z
+responseTime: 298
+lastUpdated: 2025-03-10T23:02:00.797Z
 startTime: 2023-10-29T18:22:39.626Z
 generator: Upptime <https://github.com/upptime/upptime>
