@@ -8,10 +8,8 @@ assignees: # Users to assign downtime issues (optional)
 sites:
   - name: The Grey Group Datalab (API)
     url: https://api.odbx.science/healthcheck/is_ready
-    maxResponseTime: 1000
   - name: The Grey Group Datalab
     url: https://datalab.odbx.science
-    maxResponseTime: 1000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
