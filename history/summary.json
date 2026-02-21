@@ -6,17 +6,17 @@
     "slug": "the-grey-group-datalab-api",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "84.50%",
+    "uptimeDay": "84.46%",
     "uptimeWeek": "92.20%",
-    "uptimeMonth": "96.07%",
+    "uptimeMonth": "96.10%",
     "uptimeYear": "99.58%",
     "time": 549,
     "timeDay": 608,
     "timeWeek": 556,
-    "timeMonth": 540,
+    "timeMonth": 541,
     "timeYear": 551,
     "dailyMinutesDown": {
-      "2026-02-21": 101,
+      "2026-02-21": 102,
       "2026-02-20": 123,
       "2026-02-16": 396,
       "2026-02-15": 131,
@@ -68,7 +68,7 @@
       "2025-12-09": 18,
       "2025-12-06": 34,
       "2025-12-05": 27,
-      "2025-12-04": 16
+      "2025-12-04": 8
     }
   },
   {
@@ -78,14 +78,14 @@
     "slug": "the-grey-group-datalab",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "84.83%",
+    "uptimeDay": "84.82%",
     "uptimeWeek": "92.30%",
-    "uptimeMonth": "96.14%",
+    "uptimeMonth": "96.17%",
     "uptimeYear": "99.59%",
-    "time": 540,
+    "time": 539,
     "timeDay": 566,
     "timeWeek": 557,
-    "timeMonth": 511,
+    "timeMonth": 512,
     "timeYear": 540,
     "dailyMinutesDown": {
       "2026-02-21": 98,
@@ -139,7 +139,7 @@
       "2025-12-09": 18,
       "2025-12-06": 34,
       "2025-12-05": 26,
-      "2025-12-04": 24
+      "2025-12-04": 15
     }
   }
 ]
