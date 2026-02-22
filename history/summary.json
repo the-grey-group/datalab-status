@@ -4,19 +4,19 @@
     "url": "https://api.odbx.science/healthcheck/is_ready",
     "icon": "https://icons.duckduckgo.com/ip3/api.odbx.science.ico",
     "slug": "the-grey-group-datalab-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "92.96%",
-    "uptimeWeek": "91.70%",
-    "uptimeMonth": "95.95%",
+    "uptimeDay": "94.38%",
+    "uptimeWeek": "91.85%",
+    "uptimeMonth": "95.98%",
     "uptimeYear": "99.58%",
-    "time": 550,
-    "timeDay": 588,
-    "timeWeek": 560,
-    "timeMonth": 539,
+    "time": 551,
+    "timeDay": 634,
+    "timeWeek": 566,
+    "timeMonth": 538,
     "timeYear": 550,
     "dailyMinutesDown": {
-      "2026-02-22": 63,
+      "2026-02-22": 64,
       "2026-02-21": 140,
       "2026-02-20": 123,
       "2026-02-16": 396,
@@ -65,7 +65,7 @@
       "2025-12-19": 18,
       "2025-12-16": 14,
       "2025-12-14": 50,
-      "2025-12-13": 21
+      "2025-12-13": 11
     }
   },
   {
@@ -73,15 +73,15 @@
     "url": "https://datalab.odbx.science",
     "icon": "https://icons.duckduckgo.com/ip3/datalab.odbx.science.ico",
     "slug": "the-grey-group-datalab",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "93.16%",
-    "uptimeWeek": "91.81%",
-    "uptimeMonth": "96.02%",
-    "uptimeYear": "99.58%",
+    "uptimeDay": "94.55%",
+    "uptimeWeek": "91.96%",
+    "uptimeMonth": "96.05%",
+    "uptimeYear": "99.59%",
     "time": 540,
-    "timeDay": 644,
-    "timeWeek": 573,
+    "timeDay": 662,
+    "timeWeek": 576,
     "timeMonth": 517,
     "timeYear": 542,
     "dailyMinutesDown": {
@@ -133,8 +133,7 @@
       "2025-12-19": 17,
       "2025-12-16": 13,
       "2025-12-14": 50,
-      "2025-12-13": 19,
-      "2025-12-09": 18
+      "2025-12-13": 19
     }
   }
 ]
