@@ -5,6 +5,15 @@ user-agent: greymon-bot
 assignees: # Users to assign downtime issues (optional)
   - ml-evs
 
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "9 */2 * * *"
+
 sites:
   - name: The Grey Group Datalab (API)
     url: https://api.odbx.science/healthcheck/is_ready
