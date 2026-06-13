@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.odbx.science.ico",
     "slug": "the-grey-group-datalab-api",
     "status": "down",
-    "uptime": "99.23%",
+    "uptime": "99.22%",
     "uptimeDay": "66.77%",
     "uptimeWeek": "67.55%",
-    "uptimeMonth": "88.32%",
-    "uptimeYear": "97.97%",
+    "uptimeMonth": "88.16%",
+    "uptimeYear": "97.96%",
     "time": 552,
     "timeDay": 465,
     "timeWeek": 528,
@@ -69,7 +69,8 @@
       "2026-06-09": 561,
       "2026-06-10": 654,
       "2026-06-11": 345,
-      "2026-06-12": 457
+      "2026-06-12": 478,
+      "2026-06-13": 47
     }
   },
   {
@@ -79,10 +80,10 @@
     "slug": "the-grey-group-datalab",
     "status": "down",
     "uptime": "99.24%",
-    "uptimeDay": "68.19%",
+    "uptimeDay": "68.12%",
     "uptimeWeek": "68.51%",
-    "uptimeMonth": "88.68%",
-    "uptimeYear": "98.01%",
+    "uptimeMonth": "88.53%",
+    "uptimeYear": "98.00%",
     "time": 550,
     "timeDay": 451,
     "timeWeek": 602,
@@ -142,7 +143,8 @@
       "2026-06-09": 546,
       "2026-06-10": 645,
       "2026-06-11": 335,
-      "2026-06-12": 438
+      "2026-06-12": 459,
+      "2026-06-13": 47
     }
   }
 ]
